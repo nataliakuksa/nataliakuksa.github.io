@@ -51,6 +51,11 @@ a {
   text-decoration: none;
 }
 
+.intro-video {
+  margin-left: 300px;
+  margin-bottom: 60px;
+}
+
 a:hover {
   color: white;
 }
