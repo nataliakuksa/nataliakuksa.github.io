@@ -17,3 +17,9 @@ h4 {
   margin-top: 20px;
   margin-bottom: 10px;
 }
+
+.main-photo {
+  width=50%;
+  height=50%;
+  align: center;
+}
