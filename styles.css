@@ -11,7 +11,7 @@ h1 {
 h3 {
   margin-bottom: 20px;
   text-align: center;
-  font-weight: light;
+  font-weight: 200;
 }
 
 h4 {
@@ -23,5 +23,5 @@ h4 {
   width=50%;
   height=50%;
   align: center;
-  position: relative;
+  position: absolute;
 }
