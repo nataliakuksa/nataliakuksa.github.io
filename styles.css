@@ -45,5 +45,6 @@ p {
 }
 
 a {
-  color: red;
+  color: gray;
+  text-decoration: none;
 }
