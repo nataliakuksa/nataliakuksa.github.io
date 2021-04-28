@@ -31,3 +31,19 @@ img {
 p {
   font-size: 16px;
 }
+
+.contact {
+  text-align: center;
+}
+
+.github {
+  text-align: center;
+}
+
+.linkedin {
+  text-align: center;
+}
+
+a {
+  color: red;
+}
