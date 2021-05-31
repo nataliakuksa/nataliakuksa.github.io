@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+.light-header {
+    font-weight: 200;
+}
+
+.spacer {
+    height: 20px;
+}
+
+.special-elite {
+    font-family: 'Special Elite';
+}
+.courier-prime {
+    font-family: 'Courier Prime';
+}
+.nanum-gothic-coding {
+    font-family: 'Nanum Gothic Coding';
+}
+.roboto-mono {
+    font-family: 'Roboto Mono';
+}
+.pt-mono {
+    font-family: 'PT Mono';
+}
+.roboto-condensed-light {
+    font-family: 'Roboto Condensed';
+}
+.new-rocker {
+    font-family: 'New Rocker';
+}
+.xanh-mono {
+    font-family: 'Xanh Mono';
+}
+.eagle-lake {
+    font-family: 'Eagle Lake';
+}
+.unifraktur-maguntia {
+    font-family: 'UnifrakturMaguntia';
+}
+.stint-ultra-expanded {
+    font-family: 'Stint Ultra Expanded';
+}
